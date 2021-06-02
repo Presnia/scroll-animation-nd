@@ -9,8 +9,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
   margin: 0;
+  background-color: #efedd6 ;
   font-family: 'Roboto',sans-serif;
-  overflow: hidden;
 }
+
